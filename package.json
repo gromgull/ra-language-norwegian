@@ -1,0 +1,21 @@
+{
+"name": "ra-language-norwegian",
+"version": "1.0.0",
+"description": "Norwegian messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
+"main": "index.js",
+"repository": {
+"type": "git",
+"url": "git@github.com:jon-harald/ra-language-norwegian.git"
+},
+"keywords": [
+"react",
+"react-admin",
+"translation",
+],
+"author": "Jon-Harald Bråthen <jon-harald@outlook.com>",
+"license": "MIT",
+"bugs": {
+"url": "https://github.com/jon-harald/ra-language-norwegian/issues"
+},
+"homepage": "https://github.com/jon-harald/ra-language-norwegian#readme"
+}
