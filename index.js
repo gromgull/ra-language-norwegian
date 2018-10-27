@@ -92,8 +92,8 @@ module.exports = {
             username: 'Brukernavn',
             password: 'Passord',
             sign_in: 'Logg inn',
-            sign_in_error: 'Authentisering feilet, prøv på nytt',
-            logout: 'Logout',
+            sign_in_error: 'Pålogging feilet, prøv på nytt',
+            logout: 'Logg ut',
         },
         notification: {
             updated: 'Element oppdagert |||| %{smart_count} elementer oppdatert',
